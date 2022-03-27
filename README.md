@@ -41,4 +41,4 @@ Download the deb file under - DeepStream 5.1 for Jetson from [here](https://deve
         
         
 ## Find the link of the demo video below:
-![Video](https://youtu.be/OoehrovGrls)
+[Video](https://youtu.be/OoehrovGrls)
