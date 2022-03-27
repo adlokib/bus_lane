@@ -1,0 +1,11 @@
+/bus_lane.o
+/bus_lane
+/parsers/nvdsinfer_custom_impl_Yolo/kernels.o
+/parsers/nvdsinfer_custom_impl_Yolo/libnvdsinfer_custom_impl_Yolo.so
+/parsers/nvdsinfer_custom_impl_Yolo/nvdsinfer_yolo_engine.o
+/parsers/nvdsinfer_custom_impl_Yolo/nvdsparsebbox_Yolo.o
+/parsers/nvdsinfer_custom_impl_Yolo/trt_utils.o
+/parsers/nvdsinfer_custom_impl_Yolo/yolo.o
+/parsers/nvdsinfer_custom_impl_Yolo/yoloPlugins.o
+/model/yolov3_weights_b1_gpu0_int8.engine
+/model/yolov3.weights
