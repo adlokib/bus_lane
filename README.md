@@ -1,7 +1,7 @@
 ## DETECTION OF UNAUTHORISED VEHICLES IN BUS LANE
 Bus lanes are supposed to be utilised solely by buses. But often, we see unauthorised vehicles utilizing these lanes, as a way to bypass traffic. This project demonstrates that we can use Deepstream and Computer Vision to detect such vehicles in a Video analytics pipeline.
 
-![bus_lane](https://imgur.com/a/YQWIIBV)
+![bus_lane](vids/bus_lane.png)
 
 ## Installation of Dependencies
 1. Installing System Dependencies for DeepStream
