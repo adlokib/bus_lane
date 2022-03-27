@@ -28,6 +28,7 @@ Download the deb file under - DeepStream 5.1 for Jetson from [here](https://deve
 2. Clone the repo
     ```sh
     git clone https://github.com/adlokib/bus_lane.git
+    cd bus_lane
     ```
 3. Running the application
 
